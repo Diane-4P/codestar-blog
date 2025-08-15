@@ -91,6 +91,10 @@ body {
     z-index: 100;
 }
 
+.profile-image {
+    width: 75%;
+}
+
 .post-link {
     text-decoration: none;
     color: #445261;
@@ -109,6 +113,10 @@ body {
 .post-subtitle {
     margin-left: 5%;
     color: lightgray;
+}
+
+.post-comment-form {
+    margin-top: 1.3em;
 }
 
 .btn-signup,
